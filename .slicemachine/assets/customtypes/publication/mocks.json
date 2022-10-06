@@ -1,0 +1,29 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "publication",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Determine",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Pariatur officia enim ut exercitation dolore ipsum mollit enim aliqua deserunt ex eu. Nostrud ipsum laborum irure labore in aliqua amet do sunt eiusmod. Labore veniam ullamco quis proident do.",
+        "spans": []
+      }
+    ]
+  }
+}
